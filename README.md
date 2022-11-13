@@ -1,2 +1,2 @@
-# logica-de-programacao
-Atividades realizadas na disciplina de Lógica de Programação na Faculdade.
+# Programming Logic
+Activities carried out in the discipline of Programming Logic.
